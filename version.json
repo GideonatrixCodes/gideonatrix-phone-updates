@@ -1,6 +1,7 @@
 {
-  "version": "1.3.10",
-  "download": "https://gideonatrixdesigns.tebex.io/",
-  "changelog": "https://gideonatrixdesigns.tebex.io/",
-  "message": "Initial Advanced FiveM Gideonatrix Phone release."
+  "product": "Gideonatrix Phone",
+  "version": "1.3.27",
+  "download": "https://gideonatrixcodes.tebex.io/package/7689392",
+  "changelog": "https://gideonatrixcodes.tebex.io/package/7689392",
+  "message": "Nearby recording audio improvements, clean F8 diagnostics, and resilient phone call animation fixes."
 }
